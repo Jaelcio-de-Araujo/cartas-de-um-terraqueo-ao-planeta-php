@@ -43,3 +43,9 @@ phpinfo();
 Salve o arquivo com o nome de index.php, vá no seu navegador de internet e acesso o endereço http://localhost:8000/
 Em meu caso eu defini a porta 8000, mas você pode definir outro se for o caso.
 A resposta do seu navegador será como esta à seguir:
+
+![php](php03.png)
+
+Isso significa que o php interpretou o seu código corretamente, e para as demais páginas que vamos fazer basta acessar o endereço seguido do nome da pagina.
+E é isso pessoal! Escreva outros scripts, busque na internet e divirta-se com Php. Somente com Php você já pode ter um ambiente leve e rápido para trabalhar.
+Até a próxima.
