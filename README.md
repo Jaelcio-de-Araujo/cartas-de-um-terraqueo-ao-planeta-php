@@ -1,4 +1,4 @@
-# cartas-de-um-terraqueo-ao-planeta-php
+# Cartas de terráqueo ao planeta PHP.
 
 ## Objetivo do projeto
 Este projeto tem como objetivo difundir conhecimento em progração, prioeizando o uso da linguagem PHP.
