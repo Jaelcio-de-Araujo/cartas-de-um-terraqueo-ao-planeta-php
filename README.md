@@ -10,4 +10,4 @@ Alem disso, támbem uso este projeto como uma espécie de "diário" de conhecime
 
 Este projeto sempre será alimentado por mim ou por quem desejar ajudar.
 
-![PHP](php01.jpg)
+![PHP](php01.png)
