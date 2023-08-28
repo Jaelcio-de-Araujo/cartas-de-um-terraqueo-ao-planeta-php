@@ -93,6 +93,14 @@ Neste exemplo você acessar o navegador, depois de ter ativador o servidor inter
 
 ![php](php04.pnj)
 
+Ou tambem pode ver direto no terminal:
+
+![php](php05.pnj)
+
+E terminamos por aqui a estão inicial de variáveis.
+Espero sinceramente que isso te ajude, pois não serve ssomente para php, mas todas as linguagens.
+Abraços e até a próxima!
+
 
 
 
