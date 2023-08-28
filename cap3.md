@@ -89,7 +89,9 @@ echo "Peso: " .     $_peso . "\n";
 echo "Fumante: " .  $_fumante_sn . "\n";
 ~~~
 
+Neste exemplo você acessar o navegador, depois de ter ativador o servidor interno do Php e ver o resultado:
 
+![php](php04.pnj)
 
 
 
