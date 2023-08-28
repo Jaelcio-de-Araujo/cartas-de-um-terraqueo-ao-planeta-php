@@ -91,11 +91,11 @@ echo "Fumante: " .  $_fumante_sn . "\n";
 
 Neste exemplo você acessar o navegador, depois de ter ativador o servidor interno do Php e ver o resultado:
 
-![php](php04.pnj)
+![php](php04.png)
 
 Ou tambem pode ver direto no terminal:
 
-![php](php05.pnj)
+![php](php05.png)
 
 E terminamos por aqui a estão inicial de variáveis.
 Espero sinceramente que isso te ajude, pois não serve ssomente para php, mas todas as linguagens.
