@@ -25,7 +25,7 @@ try {
   }
 ~~~
 
-1. try / catch: Essa é uma construção utilizada para lidar com exceções (erros) que podem ocorrer durante a execução do código. O código dentro do bloco try é onde as ações são realizadas, e se ocorrer algum erro, o código dentro do bloco catch é executado para tratar a exceção.
+1. **try / catch**: Essa é uma construção utilizada para lidar com exceções (erros) que podem ocorrer durante a execução do código. O código dentro do bloco try é onde as ações são realizadas, e se ocorrer algum erro, o código dentro do bloco catch é executado para tratar a exceção.
 2. for loop: O código começa com um loop for que itera de 1 a 10.
 3. **$arquivo = 'arquivo'.$i.'.txt';**: Essa linha cria o nome do arquivo com base no valor atual de $i. Para $i igual a 1, o nome do arquivo será "arquivo1.txt", e assim por diante.
 4. **$conteudo = 'Escrevendo no arquivo';**: Aqui, uma string chamada "Escrevendo no arquivo" é definida como o conteúdo a ser escrito no arquivo.
