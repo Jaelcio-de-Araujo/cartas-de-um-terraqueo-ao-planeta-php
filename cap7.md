@@ -36,7 +36,7 @@ try {
 Em resumo, este código cria 10 arquivos com nomes sequenciais ("arquivo1.txt", "arquivo2.txt", etc.) e escreve a string "Escrevendo no arquivo" em cada um deles, adicionando o conteúdo ao final do arquivo. Se ocorrer algum erro durante o processo, uma mensagem de erro será exibida.
 Vejo a saída no termina logo abaixo:
 
-[php](php07.png)
+![php](php07.png)
 
 Melhore o código, crie outros, enfim aproveite e dê uma olhada na documentação do php, neste site: https://www.phptutorial.net
 Até a próxima!
