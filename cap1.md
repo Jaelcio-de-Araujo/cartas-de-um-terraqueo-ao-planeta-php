@@ -1,6 +1,6 @@
 # Cartas de um terráqueo ao planeta Php, Capitulo 1: Quem é Você?
 
-![PHP](php01.png)
+![PHP](assets/php01.png)
 
 O Php é uma linguagem de programação, poderosa e que roda no servidor web. No inicio de tudo o seu criador não tinha
 o objetivo de criar uma linguagem de programação, mas sim, de criar scripts que o ajudasse em seu projeto pessoal. 

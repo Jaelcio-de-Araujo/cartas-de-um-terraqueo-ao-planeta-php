@@ -16,7 +16,7 @@ variáveis de ambiente, e para isso eu ja criei um artigo que você pode acessar
 Isso vai permitir que o Php seja reconhecido em todo o nosso sistema e dessa maneira possamos 
 chamar o comando php em qualquer lugar do nosso sistema. Assim:
 
-![php](php02.png)
+![php](assets/php02.png)
 
 E pronto, você já estará pronto para trabalhar com php. Crie uma pasta em qualquer lugar do seu sistema, abra o terminal dentro 
 dessa pasta e digite o comando a seguir para iniciar o servidor do php:
@@ -44,7 +44,7 @@ Salve o arquivo com o nome de index.php, vá no seu navegador de internet e aces
 Em meu caso eu defini a porta 8000, mas você pode definir outro se for o caso.
 A resposta do seu navegador será como esta à seguir:
 
-![php](php03.png)
+![php](assets/php03.png)
 
 Isso significa que o php interpretou o seu código corretamente, e para as demais páginas que vamos fazer basta acessar o endereço seguido do nome da pagina.
 E é isso pessoal! Escreva outros scripts, busque na internet e divirta-se com Php. Somente com Php você já pode ter um ambiente leve e rápido para trabalhar.

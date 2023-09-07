@@ -35,7 +35,7 @@ echo __FILE__;
 
 Veja o resultado no terminal:
 
-![php](php06.png)
+![php](assets/php06.png)
 
 O uso dessas constantes é muito importante dependendo do cenário que você estiver.
 Espero que isso ajude, até a próxima!
